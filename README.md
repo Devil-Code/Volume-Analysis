@@ -37,7 +37,7 @@ This repository contains a Python tool for analyzing the Master Boot Record (MBR
 
 ## Functions
 
-### `parse_mbr(disk_file)`
+#### `parse_mbr(disk_file)`
 
 Parses the MBR of the given disk image file and extracts partition information.
 
@@ -107,5 +107,9 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
+For any inquiries or issues, please contact:
+- **Pritesh Gandhi**
+- **Email**: pgandhi1412@gmail.com
+- **GitHub**: [YourGitHubProfile](https://github.com/Devil-Code)
+
 For questions or suggestions, please open an issue in this repository.
-```
