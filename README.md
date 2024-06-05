@@ -41,51 +41,51 @@ This repository contains a Python tool for analyzing the Master Boot Record (MBR
 
 Parses the MBR of the given disk image file and extracts partition information.
 
-### `unpartitioned_space()`
+#### `unpartitioned_space()`
 
 Identifies and reports unpartitioned disk space.
 
-### `check_lba_consistency(disk_file)`
+#### `check_lba_consistency(disk_file)`
 
 Checks the consistency of partitions based on their LBA and size.
 
-### `consistency_check(partition)`
+#### `consistency_check(partition)`
 
 Verifies the consistency of a given partition.
 
-### `output_func(MBR)`
+#### `output_func(MBR)`
 
 Prints the partition information in a tabulated format.
 
-### `partition_calc(partition)`
+#### `partition_calc(partition)`
 
 Calculates and returns detailed information about a given partition.
 
-### `partition_type(partition)`
+#### `partition_type(partition)`
 
 Returns the type of a given partition.
 
-### `lba(partition)`
+#### `lba(partition)`
 
 Extracts and returns the LBA of a given partition.
 
-### `size_calc(partition)`
+#### `size_calc(partition)`
 
 Calculates and returns the size of a given partition in MB.
 
-### `validity_check(partition)`
+#### `validity_check(partition)`
 
 Checks the validity of a given partition.
 
-### `CHS_calc(partition)`
+#### `CHS_calc(partition)`
 
 Calculates and returns the CHS address of a given partition.
 
-### `bintodec(li)`
+#### `bintodec(li)`
 
 Converts a binary list to a decimal number.
 
-### `hextodec(li)`
+#### `hextodec(li)`
 
 Converts a hexadecimal list to a decimal number.
 
