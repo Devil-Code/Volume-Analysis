@@ -110,6 +110,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 For any inquiries or issues, please contact:
 - **Pritesh Gandhi**
 - **Email**: pgandhi1412@gmail.com
-- **GitHub**: [YourGitHubProfile](https://github.com/Devil-Code)
+- **GitHub**: [GitHubProfile](https://github.com/Devil-Code)
 
 For questions or suggestions, please open an issue in this repository.
