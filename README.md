@@ -1,6 +1,6 @@
 # Volume Analysis Tool
 
-This repository contains a Python tool for analyzing the Master Boot Record (MBR) of a disk image. The tool extracts partition information, checks for consistency, and identifies unpartitioned disk space.
+A Python tool for analyzing the Master Boot Record (MBR) of a disk image. The tool extracts partition information, checks for consistency, and identifies unpartitioned disk space.
 
 ## Features
 
